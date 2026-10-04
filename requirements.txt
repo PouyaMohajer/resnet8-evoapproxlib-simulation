@@ -1,0 +1,4 @@
+tensorflow>=2.1.0
+numpy>=1.18.0
+evoapproxlib>=1.0.0
+cython>=0.29.0
